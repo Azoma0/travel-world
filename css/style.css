@@ -27,7 +27,7 @@ nav a {
 }
 
 .hero {
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../images/paris.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/paris.jpg') no-repeat center center/cover;
     color: white;
     text-align: center;
     padding: 55px 20px;
@@ -192,6 +192,7 @@ nav a {
     background: white;
     border-radius: 10px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+     padding-bottom: 150px; 
 }
 
 .contact form {
